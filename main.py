@@ -1,3 +1,4 @@
+import pygame
 from game import Game
 from creep import Creep
 from world import World
